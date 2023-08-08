@@ -1,4 +1,4 @@
-# demographic-analysis
+# demographic-analysis of 10-year CENSUS data
 
 # goal
 Goal is to provide a system that will be able to determine the population percentage of a place, education qualifications, different races of people living in that place.
